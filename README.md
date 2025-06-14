@@ -2,5 +2,5 @@
 
 THANKS TO [https://github.com/just-the-docs/just-the-docs-template.git]
 
-> CHILL WEB MEMBERS
-isayhello
+> CHILL WEB MEMBERS:
+- isayhello
